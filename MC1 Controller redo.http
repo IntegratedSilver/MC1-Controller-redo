@@ -1,0 +1,6 @@
+@MC1_Controller_redo_HostAddress = http://localhost:5064
+
+GET {{MC1_Controller_redo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
