@@ -1,0 +1,34 @@
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\appsettings.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\MC1 Controller redo.exe
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\MC1 Controller redo.deps.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\MC1 Controller redo.runtimeconfig.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\MC1 Controller redo.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\MC1 Controller redo.pdb
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.csproj.AssemblyReference.cache
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.AssemblyInfoInputs.cache
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.AssemblyInfo.cs
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.csproj.CoreCompileInputs.cache
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.sourcelink.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets\msbuild.MC1 Controller redo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets\msbuild.build.MC1 Controller redo.props
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MC1 Controller redo.props
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MC1 Controller redo.props
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\scopedcss\bundle\MC1 Controller redo.styles.css
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Cont.E561D974.Up2Date
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\refint\MC1 Controller redo.dll
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.pdb
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\MC1 Controller redo.genruntimeconfig.cache
+C:\Users\silve\Downloads\old c#\MC1 Controller redo\obj\Debug\net8.0\ref\MC1 Controller redo.dll

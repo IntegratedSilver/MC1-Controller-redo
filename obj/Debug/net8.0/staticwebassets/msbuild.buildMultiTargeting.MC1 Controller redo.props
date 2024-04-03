@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MC1 Controller redo.props" />
+</Project>
